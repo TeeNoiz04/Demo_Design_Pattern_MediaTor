@@ -1,0 +1,6 @@
+@Demo_Design_Pattern_MediaTor_HostAddress = http://localhost:5172
+
+GET {{Demo_Design_Pattern_MediaTor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
